@@ -17,3 +17,9 @@ To run all test in terminal
 ```
 yarn tests
 ```
+
+### Plugin used
+```
+https://github.com/Bkucera/cypress-plugin-tab
+```
+
