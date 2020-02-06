@@ -1,7 +1,7 @@
 describe('Implement keyboard accessibility', function() {
     
         it('should focus finder logo', () => {
-          cy.visit('https://www.finder.com.au')
+          cy.visit('/')
           
         })
         it('should focus next menu', () => {
