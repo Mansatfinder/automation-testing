@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^3.6.1",
+    "cypress-plugin-tab": "^1.0.5"
+  },
+  "scripts": {
+    "open": "cypress open",
+    "run": "cypress run",
+    "tests": "yarn run run './cypress/integration/*'"
+  }
+}
